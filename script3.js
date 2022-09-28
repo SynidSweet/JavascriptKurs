@@ -1,0 +1,13 @@
+
+function KnappTryck()
+{
+    $("#bild").slideToggle();
+}
+
+
+
+
+
+
+
+
